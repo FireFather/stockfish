@@ -1,3 +1,9 @@
+This Stockfish 230122 (Jan 23, 2022)
+
+It has been completely re-factored according to thorough analysis by Clang, ReSharper C++, and Visual Studio Code Analysis.
+ - https://www.jetbrains.com/help/resharper/Reference__Code_Inspections_CPP.html
+
+
 ## Overview
 
 [![Build Status](https://github.com/official-stockfish/Stockfish/actions/workflows/stockfish.yml/badge.svg)](https://github.com/official-stockfish/Stockfish/actions)
